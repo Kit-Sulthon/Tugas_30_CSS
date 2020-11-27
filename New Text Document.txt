@@ -1,0 +1,2 @@
+Silahkan Download file Materialize pada website resminya, lalu buatlah sebuah protect dengan nama Tugas 30
+Silahkan buat halaman web dengan menggunakan template css materialize yang telah dipelajari sebelumnya sehingga hasilnya akan seperti gambar dibawah ini :
